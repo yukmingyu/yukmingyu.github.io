@@ -2,5 +2,5 @@
 
 # Yuk-Mm
 
-[GitHub](https://github.com/yukmingyu/notes)
+[GitHub](https://github.com/yukmingyu/yukmingyu.github.io)
 
